@@ -1,7 +1,7 @@
 ﻿using HVQN_2415053122332.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace HoVanHoang_ProjectCodeFirst.Data
+namespace HVQN_2415053122332.Data
 {
     public class AppDbContext : DbContext
     {
